@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CheckWeather</string>
+    <string name="nokta">:</string>
+    <string name="_22">22</string>
+    <string name="basinc">Basınç</string>
+    <string name="nem_text">22%</string>
+    <string name="nem">Nem</string>
+    <string name="ruzgar_hizi">Rüzgar Hızı</string>
+    <string name="kmh12">12 km/h</string>
+</resources>

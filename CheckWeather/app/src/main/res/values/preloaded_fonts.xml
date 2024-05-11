@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/alfa_slab_one</item>
+        <item>@font/chango</item>
+        <item>@font/cuprum_bold</item>
+        <item>@font/dela_gothic_one</item>
+        <item>@font/farro_medium</item>
+        <item>@font/lilita_one</item>
+        <item>@font/sarala_bold</item>
+        <item>@font/suez_one</item>
+        <item>@font/viga</item>
+    </array>
+</resources>
